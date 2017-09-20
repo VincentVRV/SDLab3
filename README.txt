@@ -1,5 +1,2 @@
 Vincent Viano  Software and Dev Lab 3
-This may cause a conflict
-Partner: Allen Keef
-"This might cause a conflict"
-New line
+"This may cause a conflict"
